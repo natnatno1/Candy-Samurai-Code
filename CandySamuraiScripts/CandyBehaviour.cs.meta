@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 45b4e0bf97f8b2e47a2dec0b00f186d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameManager_: {instanceID: 0}
+  - DuplicateObject: {instanceID: 0}
+  - RB2D: {instanceID: 0}
+  - CandyHalf1: {instanceID: 0}
+  - CandyHalf2: {instanceID: 0}
+  - GameManagerScript_: {instanceID: 0}
+  - FrozenSprite: {instanceID: 0}
+  - SR: {instanceID: 0}
+  - Sword0: {fileID: 1908681317947278, guid: 43e730e87a487eb40b7a1ba64625e904, type: 2}
+  - Sword1: {fileID: 1075267641661186, guid: bcb52b900e7682145a3e9f31d29b603b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
